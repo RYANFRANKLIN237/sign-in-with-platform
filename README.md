@@ -25,7 +25,7 @@ This project is a robust implementation of OAuth2.0 authentication using Laravel
 
 1. Clone the repository:
    ```sh
-    git clone https://github.com/ryanfranklin237/sign-in-with-platform.git
+    git clone https://github.com/RYANFRANKLIN237/sign-in-with-platform.git
     cd sign-in-with-platform
     ```
 
